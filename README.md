@@ -75,6 +75,9 @@ Visuals:
 * Attrition vs Overtime Impact
 
 
+<img width="1918" height="972" alt="page1" src="https://github.com/user-attachments/assets/8d82680a-7e73-457a-b4a7-2e79503782a8" />
+
+
 
 ### Page 2: Workforce Analysis
 
@@ -95,6 +98,9 @@ Visuals:
 * Attrition by Job Satisfaction
 
 * Average Monthly Income by Department
+
+
+<img width="1918" height="973" alt="page2" src="https://github.com/user-attachments/assets/2b732a7e-2e0c-4a22-ad68-f215947d1510" />
 
 
 
