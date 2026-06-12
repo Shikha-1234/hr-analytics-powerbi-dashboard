@@ -1,8 +1,8 @@
-\# IBM HR Analytics Dashboard
+# IBM HR Analytics Dashboard
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,33 +14,33 @@ The dashboard focuses on understanding employee turnover patterns across departm
 
 
 
-\---
+---
 
 
 
-\## Dataset Information
+## Dataset Information
 
 
 
-\* Dataset: IBM HR Analytics Employee Attrition \& Performance
+* Dataset: IBM HR Analytics Employee Attrition \& Performance
 
-\* Total Employees: 1,470
+* Total Employees: 1,470
 
-\* Total Columns: 35
+* Total Columns: 35
 
-\* Tool Used: Power BI Desktop
-
-
-
-\---
+* Tool Used: Power BI Desktop
 
 
 
-\## Dashboard Pages
+---
 
 
 
-\### Page 1: Executive Summary
+## Dashboard Pages
+
+
+
+### Page 1: Executive Summary
 
 
 
@@ -48,35 +48,17 @@ Key performance indicators:
 
 
 
-\* Total Employees
+* Total Employees
 
-\* Active Employees
+* Active Employees
 
-\* Attrition Count
+* Attrition Count
 
-\* Attrition Rate
+* Attrition Rate
 
-\* Average Age
+* Average Age
 
-\* Average Monthly Income
-
-
-
-Visuals:
-
-
-
-\* Attrition by Department
-
-\* Attrition by Gender
-
-\* Attrition by Job Role
-
-\* Attrition vs Overtime Impact
-
-
-
-\### Page 2: Workforce Analysis
+* Average Monthly Income
 
 
 
@@ -84,51 +66,69 @@ Visuals:
 
 
 
-\* Attrition by Age Group
+* Attrition by Department
 
-\* Attrition by Employee Tenure
+* Attrition by Gender
 
-\* Attrition by Education Field
+* Attrition by Job Role
 
-\* Attrition by Marital Status
-
-\* Attrition by Job Satisfaction
-
-\* Average Monthly Income by Department
+* Attrition vs Overtime Impact
 
 
 
-\---
+### Page 2: Workforce Analysis
 
 
 
-\## Key Metrics
+Visuals:
 
 
 
-\* Total Employees: 1,470
+* Attrition by Age Group
 
-\* Active Employees: 1,233
+* Attrition by Employee Tenure
 
-\* Attrition Count: 237
+* Attrition by Education Field
 
-\* Attrition Rate: 16.12%
+* Attrition by Marital Status
 
-\* Average Age: 36.92 Years
+* Attrition by Job Satisfaction
 
-
-
-\---
+* Average Monthly Income by Department
 
 
 
-\## Files
+---
+
+
+
+## Key Metrics
+
+
+
+* Total Employees: 1,470
+
+* Active Employees: 1,233
+
+* Attrition Count: 237
+
+* Attrition Rate: 16.12%
+
+* Average Age: 36.92 Years
+
+
+
+---
+
+
+
+## Files
 
 
 
 ```text
 
-hr\_bi/
+hr_bi/
 
 │
 
@@ -138,7 +138,7 @@ hr\_bi/
 
 ├── data/
 
-│   └── WA\_Fn-UseC\_-HR-Employee-Attrition.csv
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 
 ├── images/
 
@@ -154,27 +154,38 @@ hr\_bi/
 
 
 
-\---
+---
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* Data Visualization
+* Data Visualization
 
-\* Dashboard Design
+* Dashboard Design
 
-\* Power BI
+* Power BI
 
-\* DAX Measures
+* DAX Measures
 
-\* HR Analytics
+* HR Analytics
 
-\* KPI Reporting
+* KPI Reporting
 
-\* Business Insight Generation
+* Business Insight Generation
 
 
+## Author
 
+Shikha Kumari
+
+B.Sc. Mathematics Student | Data Analytics Aspirant
+
+Interested in Data Analytics, Business Intelligence, SQL, Power BI, Excel, and Data Visualization.
+
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/shikha-kumari-bsc2124
