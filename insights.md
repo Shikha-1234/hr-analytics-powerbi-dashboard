@@ -1,8 +1,8 @@
 # IBM HR Analytics Dashboard
 
-Key Findings
+## Key Findings
 
-1. Employee Attrition
+### 1. Employee Attrition
 
 * Total employees: 1,470
 * Employees who left: 237
@@ -12,7 +12,7 @@ Approximately one out of every six employees left the organization.
 
 ---
 
-2. Department Analysis
+### 2. Department Analysis
 
 * Research & Development recorded the highest number of attrition cases.
 * Sales had the second-highest attrition.
@@ -20,7 +20,7 @@ Approximately one out of every six employees left the organization.
 
 ---
 
-3. Gender Analysis
+### 3. Gender Analysis
 
 * Male attrition: 150
 * Female attrition: 87
@@ -29,55 +29,55 @@ Employee turnover was higher among male employees.
 
 ---
 
-4. Job Role Analysis
+### 4. Job Role Analysis
 
 * Laboratory Technicians experienced the highest attrition.
 * Sales Executives and Research Scientists also showed significant employee turnover.
 
 ---
 
-5. Overtime Impact
+### 5. Overtime Impact
 
 Employees working overtime showed a noticeably higher attrition tendency compared to employees who did not work overtime.
 
 ---
 
-6. Age Analysis
+### 6. Age Analysis
 
 Most attrition occurred among employees between 25 and 35 years of age, indicating that early and mid-career employees are more likely to leave.
 
 ---
 
-7. Tenure Analysis
+### 7. Tenure Analysis
 
 The highest attrition was observed among employees with 0–2 years of service, suggesting that retention challenges are strongest during the initial years of employment.
 
 ---
 
-8. Education Field Analysis
+### 8. Education Field Analysis
 
 Employees from Life Sciences and Medical backgrounds accounted for the largest share of attrition.
 
 ---
 
-9. Marital Status Analysis
+### 9. Marital Status Analysis
 
 Single employees recorded the highest attrition levels compared to married and divorced employees.
 
 ---
 
-10. Job Satisfaction
+### 10. Job Satisfaction
 
 Attrition was present across all satisfaction levels, indicating that employee turnover is influenced by multiple factors rather than job satisfaction alone.
 
 ---
 
-11. Income Analysis
+### 11. Income Analysis
 
 Average monthly income varied across departments, with Sales showing the highest average income among the three major departments.
 
 ---
 
-Conclusion
+## Conclusion
 
 Attrition appears to be concentrated among younger employees, employees with shorter tenure, employees working overtime, and specific job roles such as Laboratory Technicians and Sales Executives. These areas may require focused retention strategies to reduce workforce turnover.
