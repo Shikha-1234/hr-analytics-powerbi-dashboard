@@ -1,4 +1,4 @@
-IBM HR Analytics Dashboard
+# IBM HR Analytics Dashboard
 
 Key Findings
 
